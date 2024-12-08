@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "title": "Read a book",
+      "status": "completed"
+    },
+    {
+      "id": "9f68",
+      "title": "test",
+      "status": "in-progress"
+    },
+    {
+      "id": "f219",
+      "title": "3",
+      "status": "pending"
+    },
+    {
+      "id": "6006",
+      "title": "4",
+      "status": "in-progress"
+    },
+    {
+      "id": "b06e",
+      "title": "5",
+      "status": "in-progress"
+    },
+    {
+      "id": "ae4a",
+      "title": "66",
+      "status": "in-progress"
+    },
+    {
+      "id": "49af",
+      "title": "666666666",
+      "status": "pending"
+    }
+  ]
+}
