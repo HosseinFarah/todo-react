@@ -3,31 +3,36 @@
     {
       "id": "1",
       "title": "Buy groceries",
-      "status": "completed"
+      "status": "pending"
     },
     {
       "id": "5939",
       "title": "2",
-      "status": "pending"
+      "status": "in-progress"
     },
     {
       "id": "0e12",
       "title": "3",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "id": "bc35",
       "title": "4",
-      "status": "in-progress"
+      "status": "pending"
     },
     {
       "id": "5ae4",
       "title": "5",
-      "status": "completed"
+      "status": "in-progress"
     },
     {
       "id": "2a5f",
       "title": "8",
+      "status": "completed"
+    },
+    {
+      "id": "32c7",
+      "title": "Test",
       "status": "in-progress"
     }
   ]
