@@ -8,6 +8,15 @@ This is a simple Todo application built with React and Vite. It allows users to 
 - View a list of todos
 - Update existing todos
 - Delete todos
+- Search todos by title or status
+- Paginated table view using Ag-Grid
+
+## Libraries Used
+
+- React
+- React Router
+- Axios
+- Ag-Grid
 
 ## Getting Started
 
@@ -20,4 +29,3 @@ This is a simple Todo application built with React and Vite. It allows users to 
 
 1. Clone the repository:
 
-   

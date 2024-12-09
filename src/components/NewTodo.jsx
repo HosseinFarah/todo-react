@@ -62,6 +62,13 @@ const NewTodo = () => {
               <button type="submit" className="btn btn-primary">
                 Submit
               </button>
+              <button
+                type="button"
+                className="btn btn-secondary ms-2"
+                onClick={() => navigate("/")}
+              >
+                Cancel
+              </button>
             </form>
           </div>
         </>
